@@ -1,3 +1,4 @@
+
 # ER Diagram Workshop – Submission Template
 
 ## Objective
@@ -22,8 +23,8 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 - Payments tracked for memberships and sessions.
 
 ### ER Diagram:
-*Paste or attach your diagram here*  
-![ER Diagram](er_diagram_fitness.png)
+<img width="4512" height="2214" alt="erdplus (2)" src="https://github.com/user-attachments/assets/8b7c52b7-3b7e-49c0-a21e-5c8fc1a2266b" />
+
 
 ### Entities and Attributes
 
@@ -64,8 +65,8 @@ The Central Library wants to manage book lending and cultural events.
 - Overdue fines apply for late returns.
 
 ### ER Diagram:
-*Paste or attach your diagram here*  
-![ER Diagram](er_diagram_library.png)
+<img width="4512" height="2214" alt="erdplus (3)" src="https://github.com/user-attachments/assets/a27c8af6-e692-4d57-8f24-9c781965dd53" />
+
 
 ### Entities and Attributes
 
@@ -106,8 +107,10 @@ A popular restaurant wants to manage reservations, orders, and billing.
 - Waiters assigned to serve reservations.
 
 ### ER Diagram:
-*Paste or attach your diagram here*  
-![ER Diagram](er_diagram_restaurant.png)
+<img width="4512" height="2214" alt="erdplus (1)" src="https://github.com/user-attachments/assets/322e5a56-039e-49ab-b23f-e85d479a329e" />
+
+
+
 
 ### Entities and Attributes
 
